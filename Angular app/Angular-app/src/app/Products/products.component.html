@@ -1,0 +1,23 @@
+<div class="container card-container" *ngIf="product">
+
+
+
+  <div class="row" >
+    <div class="col-sm-4"*ngFor="let item of product">
+      <div class="card" >
+        <div class="card-body">
+          <img [src]="item.img" style="width:150px;height:150px;">
+          <h5 class="card-text">{{item.name}}.</h5>
+          <p>{{item.description}}</p>
+        </div>
+        <div class="card-footer ml-5">
+       <a  class="btn btn-primary btn-sm card-button " (click)="loadCart()">Buy</a>
+        </div>
+      </div> <br><br>
+    </div>
+
+  </div>
+</div>
+
+
+

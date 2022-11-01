@@ -1,0 +1,27 @@
+[
+  {"id": 1, "img": "https://www.laptop.lk/wp-content/uploads/2021/06/Logitech-G29-Driving-Force.jpg", "name": "Logitech G29 Driving Force", "price":0,"description": "– Logitech G Dual-Motor\n– Black\n– PlayStation 4, PlayStation 5, PlayStation 3\n– 4.96 Pounds\n– Driving Force G29 Gaming Racing Wheel\n– Responsive Pedals for PlayStation","avalability": "yes"},
+  {"id": 2, "img": "https://www.laptop.lk/wp-content/uploads/2022/06/Lenovo-Legion-5.jpg", "name": "Lenovo Legion 5 – 15ACH6H (R7)", "price":0,"description": "– AMD Ryzen 7 5800H Processor\n– 16GB DDR4 RAM\n– 512GB SSD M.2 2280 PCIe NVMe\n– 6GB NVIDIA GeForce RTX 3060 Graphics\n– 15.6″ FHD, IPS 300nits Anti-glare, 165Hz Display\n– Office Home and Student 2021\n– Windows 11 Home","avalability": "yes"},
+  {"id": 3, "img": "https://www.laptop.lk/wp-content/uploads/2022/05/Asus-TUF-Gaming-F15-FX507ZC-HN025W.jpg", "name": "Asus TUF Gaming F15 FX507ZC – HN025W (i7)", "price":0,"description": "– Intel Core i7 – 12700H Processor\n– 8GB DDR5 4800MHz RAM\n– 512GB M.2 NVMe SSD\n– 15.6″ FHD, 144Hz Display\n– 4GB Nvidia GeForce RTX 3050 Graphics\n– 56WHrs, 4S1P, 4-cell Li-ion Battery\n– Windows 11 Home","avalability": "yes"},
+  {"id": 4, "img": "https://www.laptop.lk/wp-content/uploads/2022/04/MSI-Katana-GF66-12UC-01-1.jpg", "name": "MSI Katana GF66 – 12UC (i7)", "price":0,"description": "– Intel Core i7-12700H Processor\n– 8GB DDR4 RAM\n– 512GB NVMe SSD Memory\n– RTX 3050 4GB NVIDIA GeForce\n– 15.6″ FHD, 144Hz, IPS-Level Display\n– Windows 11 Home","avalability": "yes"},
+  {"id": 5, "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8m2b1i8Z5b1b1_picture-300-x-300-pixel%2F&psig=AOvVaw0cGmVqI_qZDz7XDxiFm7ti&ust=1667366419230000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLi7pYuejPsCFQAAAAAdAAAAABAE", "name": "product_name", "price":0,"description": "****","avalability": "yes"},
+  {"id": 6, "img": "https://www.laptop.lk/wp-content/uploads/2022/09/MBA-PFOpen-Slvr-US-EN-SCREEN.jpg", "name": "Apple MacBook Air (MGN63LL/A)", "price":0,"description": "– M1 8-Core CPU\n– 8GB RAM\n– 256GB SSD\n– WebCam/Bluetooth, Touch ID\n– 13.3″  Retine LED Blacklit Display\n– True Tone Technology\n– Space Gray Color\n– Mac OS","avalability": "yes"},
+  {"id": 7, "img": "src", "name": "product_name", "price":0,"description": "****","avalability": "yes"},
+  {"id": 8,"img": "src", "name": "product_name", "price":0,"description": "****","avalability": "yes"},
+  {"id": 9, "img": "src", "name": "product_name", "price":0,"description": "****","avalability": "yes"},
+  {"id": 10, "img": "src", "name": "product_name", "price":0,"description": "****","avalability": "yes"},
+  {"id": 11, "img": "src", "name": "product_name", "price":0,"description": "****","avalability": "yes"},
+  {"id": 12, "img": "src", "name": "product_name", "price":0,"description": "****","avalability": "yes"},
+  {"id": 13, "img": "src", "name": "product_name", "price":0,"description": "****","avalability": "yes"},
+  {"id": 14, "img": "src", "name": "product_name", "price":0,"description": "****","avalability": "yes"},
+  {"id": 15, "img": "src", "name": "product_name", "price":0,"description": "****","avalability": "yes"},
+  {"id": 16, "img": "src", "name": "product_name", "price":0,"description": "****","avalability": "yes"},
+  {"id": 17, "img": "src", "name": "product_name", "price":0,"description": "****","avalability": "yes"},
+  {"id": 18, "img": "src", "name": "product_name", "price":0,"description": "****","avalability": "yes"},
+  {"id": 19, "img": "src", "name": "product_name", "price":0,"description": "****","avalability": "yes"},
+  {"id": 20, "img": "src", "name": "product_name", "price":0,"description": "****","avalability": "yes"}
+
+
+
+
+
+]
