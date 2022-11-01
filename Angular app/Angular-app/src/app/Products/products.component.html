@@ -6,7 +6,7 @@
     <div class="col-sm-4"*ngFor="let item of product">
       <div class="card" >
         <div class="card-body">
-          <img [src]="item.img" style="width:150px;height:150px;">
+          <img [src]="item.img" class="product-image">
           <h5 class="card-text">{{item.name}}.</h5>
           <p>{{item.description}}</p>
         </div>
